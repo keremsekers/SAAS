@@ -120,7 +120,7 @@
       "title": "AI Lebens-Übersetzer",
       "category": "ai-tools",
       "description": "AI mektup ve belge açıklama asistanı",
-      "price": 9.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -128,8 +128,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 2,
@@ -137,7 +137,7 @@
       "title": "AI Bewerbungshelfer",
       "category": "ai-tools",
       "description": "CV ve başvuru asistanı",
-      "price": 12.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -145,8 +145,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 3,
@@ -154,7 +154,7 @@
       "title": "AI E-Mail Antwortprofi",
       "category": "ai-tools",
       "description": "Almanca e-posta cevap asistanı",
-      "price": 7.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -162,8 +162,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 4,
@@ -188,7 +188,7 @@
       "title": "AI Termin-Coach",
       "category": "ai-tools",
       "description": "Randevu konuşma ve hazırlık yardımcısı",
-      "price": 7.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -196,8 +196,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 6,
@@ -205,7 +205,7 @@
       "title": "AI Dokumenten-Check",
       "category": "ai-tools",
       "description": "Belge kontrol ve özet paketi",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -213,8 +213,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 7,
@@ -222,7 +222,7 @@
       "title": "AI Prompt Starter DE/TR",
       "category": "ai-tools",
       "description": "DE/TR hazır prompt koleksiyonu",
-      "price": 6.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -230,8 +230,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 8,
@@ -239,7 +239,7 @@
       "title": "AI Personal Assistant",
       "category": "ai-tools",
       "description": "Günlük AI asistan şablonları",
-      "price": 12.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -247,8 +247,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 9,
@@ -256,7 +256,7 @@
       "title": "AI Business Copilot",
       "category": "ai-tools",
       "description": "Küçük işletme AI çalışma sistemi",
-      "price": 24.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -264,8 +264,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 10,
@@ -273,7 +273,7 @@
       "title": "AI Automation Starter",
       "category": "ai-tools",
       "description": "AI otomasyon başlangıç paketi",
-      "price": 29.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -281,8 +281,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 11,
@@ -290,7 +290,7 @@
       "title": "Job Interview Simulator",
       "category": "career",
       "description": "Karriere & Jobs için pratik DE/TR ürün ve hizmet paketi",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -298,8 +298,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 12,
@@ -307,7 +307,7 @@
       "title": "CV Upgrade Kit",
       "category": "career",
       "description": "Karriere & Jobs için pratik DE/TR ürün ve hizmet paketi",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -315,8 +315,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 13,
@@ -324,7 +324,7 @@
       "title": "Anschreiben Masterclass",
       "category": "career",
       "description": "Karriere & Jobs için pratik DE/TR ürün ve hizmet paketi",
-      "price": 29.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -332,8 +332,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 14,
@@ -358,7 +358,7 @@
       "title": "Karriere & Jobs Pro",
       "category": "career",
       "description": "Karriere & Jobs için DE/TR kullanıma hazır dijital çözüm",
-      "price": 9.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -366,8 +366,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 16,
@@ -375,7 +375,7 @@
       "title": "Karriere & Jobs Plus",
       "category": "career",
       "description": "Karriere & Jobs için DE/TR kullanıma hazır dijital çözüm",
-      "price": 12.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -383,8 +383,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 17,
@@ -392,7 +392,7 @@
       "title": "Karriere & Jobs Toolkit",
       "category": "career",
       "description": "Karriere & Jobs için DE/TR kullanıma hazır dijital çözüm",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -400,8 +400,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 18,
@@ -409,7 +409,7 @@
       "title": "Karriere & Jobs Planner",
       "category": "career",
       "description": "Karriere & Jobs için DE/TR kullanıma hazır dijital çözüm",
-      "price": 17.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -417,8 +417,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 19,
@@ -426,7 +426,7 @@
       "title": "Karriere & Jobs Master Pack",
       "category": "career",
       "description": "Karriere & Jobs için DE/TR kullanıma hazır dijital çözüm",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -434,8 +434,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 20,
@@ -443,7 +443,7 @@
       "title": "Karriere & Jobs Quickstart",
       "category": "career",
       "description": "Karriere & Jobs için DE/TR kullanıma hazır dijital çözüm",
-      "price": 24.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -451,8 +451,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 21,
@@ -460,7 +460,7 @@
       "title": "Mietwohnung Starter",
       "category": "germany-life",
       "description": "Deutschland Alltag için pratik DE/TR ürün ve hizmet paketi",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -468,8 +468,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 22,
@@ -477,7 +477,7 @@
       "title": "Arztbesuch Simulator",
       "category": "germany-life",
       "description": "Deutschland Alltag için pratik DE/TR ürün ve hizmet paketi",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -485,8 +485,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 23,
@@ -494,7 +494,7 @@
       "title": "Deutschland Alltag Guide",
       "category": "germany-life",
       "description": "Deutschland Alltag için pratik DE/TR ürün ve hizmet paketi",
-      "price": 29.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -502,8 +502,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 24,
@@ -528,7 +528,7 @@
       "title": "Deutschland Alltag Pro",
       "category": "germany-life",
       "description": "Deutschland Alltag için DE/TR kullanıma hazır dijital çözüm",
-      "price": 9.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -536,8 +536,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 26,
@@ -545,7 +545,7 @@
       "title": "Deutschland Alltag Plus",
       "category": "germany-life",
       "description": "Deutschland Alltag için DE/TR kullanıma hazır dijital çözüm",
-      "price": 12.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -553,8 +553,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 27,
@@ -562,7 +562,7 @@
       "title": "Deutschland Alltag Toolkit",
       "category": "germany-life",
       "description": "Deutschland Alltag için DE/TR kullanıma hazır dijital çözüm",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -570,8 +570,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 28,
@@ -579,7 +579,7 @@
       "title": "Deutschland Alltag Planner",
       "category": "germany-life",
       "description": "Deutschland Alltag için DE/TR kullanıma hazır dijital çözüm",
-      "price": 17.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -587,8 +587,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 29,
@@ -596,7 +596,7 @@
       "title": "Deutschland Alltag Master Pack",
       "category": "germany-life",
       "description": "Deutschland Alltag için DE/TR kullanıma hazır dijital çözüm",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -604,8 +604,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 30,
@@ -613,7 +613,7 @@
       "title": "Deutschland Alltag Quickstart",
       "category": "germany-life",
       "description": "Deutschland Alltag için DE/TR kullanıma hazır dijital çözüm",
-      "price": 24.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -621,8 +621,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 31,
@@ -630,7 +630,7 @@
       "title": "Deutsch A1 Alltag",
       "category": "language",
       "description": "Deutsch Lernen için pratik DE/TR ürün ve hizmet paketi",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -638,8 +638,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 32,
@@ -647,7 +647,7 @@
       "title": "Deutsch B1 Job",
       "category": "language",
       "description": "Deutsch Lernen için pratik DE/TR ürün ve hizmet paketi",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -655,8 +655,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 33,
@@ -664,7 +664,7 @@
       "title": "Deutsch B2 Gespräch",
       "category": "language",
       "description": "Deutsch Lernen için pratik DE/TR ürün ve hizmet paketi",
-      "price": 29.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -672,8 +672,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 34,
@@ -698,7 +698,7 @@
       "title": "Deutsch Lernen Pro",
       "category": "language",
       "description": "Deutsch Lernen için DE/TR kullanıma hazır dijital çözüm",
-      "price": 9.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -706,8 +706,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 36,
@@ -715,7 +715,7 @@
       "title": "Deutsch Lernen Plus",
       "category": "language",
       "description": "Deutsch Lernen için DE/TR kullanıma hazır dijital çözüm",
-      "price": 12.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -723,8 +723,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 37,
@@ -732,7 +732,7 @@
       "title": "Deutsch Lernen Toolkit",
       "category": "language",
       "description": "Deutsch Lernen için DE/TR kullanıma hazır dijital çözüm",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -740,8 +740,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 38,
@@ -749,7 +749,7 @@
       "title": "Deutsch Lernen Planner",
       "category": "language",
       "description": "Deutsch Lernen için DE/TR kullanıma hazır dijital çözüm",
-      "price": 17.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -757,8 +757,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 39,
@@ -766,7 +766,7 @@
       "title": "Deutsch Lernen Master Pack",
       "category": "language",
       "description": "Deutsch Lernen için DE/TR kullanıma hazır dijital çözüm",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -774,8 +774,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 40,
@@ -783,7 +783,7 @@
       "title": "Deutsch Lernen Quickstart",
       "category": "language",
       "description": "Deutsch Lernen için DE/TR kullanıma hazır dijital çözüm",
-      "price": 24.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -791,8 +791,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 41,
@@ -800,7 +800,7 @@
       "title": "Behördenbrief Decoder",
       "category": "bureaucracy",
       "description": "Bürokratie & Behörden için pratik DE/TR ürün ve hizmet paketi",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -808,8 +808,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 42,
@@ -817,7 +817,7 @@
       "title": "Antrag Starter Kit",
       "category": "bureaucracy",
       "description": "Bürokratie & Behörden için pratik DE/TR ürün ve hizmet paketi",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -825,8 +825,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 43,
@@ -834,7 +834,7 @@
       "title": "Fristen & Termine Planner",
       "category": "bureaucracy",
       "description": "Bürokratie & Behörden için pratik DE/TR ürün ve hizmet paketi",
-      "price": 29.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -842,8 +842,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 44,
@@ -868,7 +868,7 @@
       "title": "Bürokratie & Behörden Pro",
       "category": "bureaucracy",
       "description": "Bürokratie & Behörden için DE/TR kullanıma hazır dijital çözüm",
-      "price": 9.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -876,8 +876,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 46,
@@ -885,7 +885,7 @@
       "title": "Bürokratie & Behörden Plus",
       "category": "bureaucracy",
       "description": "Bürokratie & Behörden için DE/TR kullanıma hazır dijital çözüm",
-      "price": 12.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -893,8 +893,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 47,
@@ -902,7 +902,7 @@
       "title": "Bürokratie & Behörden Toolkit",
       "category": "bureaucracy",
       "description": "Bürokratie & Behörden için DE/TR kullanıma hazır dijital çözüm",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -910,8 +910,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 48,
@@ -919,7 +919,7 @@
       "title": "Bürokratie & Behörden Planner",
       "category": "bureaucracy",
       "description": "Bürokratie & Behörden için DE/TR kullanıma hazır dijital çözüm",
-      "price": 17.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -927,8 +927,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 49,
@@ -936,7 +936,7 @@
       "title": "Bürokratie & Behörden Master Pack",
       "category": "bureaucracy",
       "description": "Bürokratie & Behörden için DE/TR kullanıma hazır dijital çözüm",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -944,8 +944,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 50,
@@ -953,7 +953,7 @@
       "title": "Bürokratie & Behörden Quickstart",
       "category": "bureaucracy",
       "description": "Bürokratie & Behörden için DE/TR kullanıma hazır dijital çözüm",
-      "price": 24.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -961,8 +961,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 51,
@@ -970,7 +970,7 @@
       "title": "Business Launch Kit",
       "category": "business",
       "description": "Business & Selbstständigkeit için pratik DE/TR ürün ve hizmet paketi",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -978,8 +978,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 52,
@@ -987,7 +987,7 @@
       "title": "Solo-Selbstständig Pack",
       "category": "business",
       "description": "Business & Selbstständigkeit için pratik DE/TR ürün ve hizmet paketi",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -995,8 +995,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 53,
@@ -1004,7 +1004,7 @@
       "title": "AI Business OS",
       "category": "business",
       "description": "Business & Selbstständigkeit için pratik DE/TR ürün ve hizmet paketi",
-      "price": 29.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1012,8 +1012,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 54,
@@ -1038,7 +1038,7 @@
       "title": "Business & Selbstständigkeit Pro",
       "category": "business",
       "description": "Business & Selbstständigkeit için DE/TR kullanıma hazır dijital çözüm",
-      "price": 9.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1046,8 +1046,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 56,
@@ -1055,7 +1055,7 @@
       "title": "Business & Selbstständigkeit Plus",
       "category": "business",
       "description": "Business & Selbstständigkeit için DE/TR kullanıma hazır dijital çözüm",
-      "price": 12.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1063,8 +1063,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 57,
@@ -1072,7 +1072,7 @@
       "title": "Business & Selbstständigkeit Toolkit",
       "category": "business",
       "description": "Business & Selbstständigkeit için DE/TR kullanıma hazır dijital çözüm",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1080,8 +1080,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 58,
@@ -1089,7 +1089,7 @@
       "title": "Business & Selbstständigkeit Planner",
       "category": "business",
       "description": "Business & Selbstständigkeit için DE/TR kullanıma hazır dijital çözüm",
-      "price": 17.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1097,8 +1097,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 59,
@@ -1106,7 +1106,7 @@
       "title": "Business & Selbstständigkeit Master Pack",
       "category": "business",
       "description": "Business & Selbstständigkeit için DE/TR kullanıma hazır dijital çözüm",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1114,8 +1114,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 60,
@@ -1123,7 +1123,7 @@
       "title": "Business & Selbstständigkeit Quickstart",
       "category": "business",
       "description": "Business & Selbstständigkeit için DE/TR kullanıma hazır dijital çözüm",
-      "price": 24.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1131,8 +1131,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 61,
@@ -1140,7 +1140,7 @@
       "title": "Content Kalender",
       "category": "marketing",
       "description": "Marketing & Content için pratik DE/TR ürün ve hizmet paketi",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1148,8 +1148,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 62,
@@ -1157,7 +1157,7 @@
       "title": "Shorts/Reels Factory",
       "category": "marketing",
       "description": "Marketing & Content için pratik DE/TR ürün ve hizmet paketi",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1165,8 +1165,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 63,
@@ -1174,7 +1174,7 @@
       "title": "Social Media Starter",
       "category": "marketing",
       "description": "Marketing & Content için pratik DE/TR ürün ve hizmet paketi",
-      "price": 29.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1182,8 +1182,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 64,
@@ -1208,7 +1208,7 @@
       "title": "Marketing & Content Pro",
       "category": "marketing",
       "description": "Marketing & Content için DE/TR kullanıma hazır dijital çözüm",
-      "price": 9.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1216,8 +1216,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 66,
@@ -1225,7 +1225,7 @@
       "title": "Marketing & Content Plus",
       "category": "marketing",
       "description": "Marketing & Content için DE/TR kullanıma hazır dijital çözüm",
-      "price": 12.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1233,8 +1233,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 67,
@@ -1242,7 +1242,7 @@
       "title": "Marketing & Content Toolkit",
       "category": "marketing",
       "description": "Marketing & Content için DE/TR kullanıma hazır dijital çözüm",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1250,8 +1250,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 68,
@@ -1259,7 +1259,7 @@
       "title": "Marketing & Content Planner",
       "category": "marketing",
       "description": "Marketing & Content için DE/TR kullanıma hazır dijital çözüm",
-      "price": 17.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1267,8 +1267,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 69,
@@ -1276,7 +1276,7 @@
       "title": "Marketing & Content Master Pack",
       "category": "marketing",
       "description": "Marketing & Content için DE/TR kullanıma hazır dijital çözüm",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1284,8 +1284,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 70,
@@ -1293,7 +1293,7 @@
       "title": "Marketing & Content Quickstart",
       "category": "marketing",
       "description": "Marketing & Content için DE/TR kullanıma hazır dijital çözüm",
-      "price": 24.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1301,8 +1301,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 71,
@@ -1310,7 +1310,7 @@
       "title": "Lebenslauf Vorlage",
       "category": "templates",
       "description": "Vorlagen & Dokumente için pratik DE/TR ürün ve hizmet paketi",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1318,8 +1318,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 72,
@@ -1327,7 +1327,7 @@
       "title": "Anschreiben Vorlage",
       "category": "templates",
       "description": "Vorlagen & Dokumente için pratik DE/TR ürün ve hizmet paketi",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1335,8 +1335,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 73,
@@ -1344,7 +1344,7 @@
       "title": "Rechnung & Angebot Pack",
       "category": "templates",
       "description": "Vorlagen & Dokumente için pratik DE/TR ürün ve hizmet paketi",
-      "price": 29.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1352,8 +1352,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 74,
@@ -1378,7 +1378,7 @@
       "title": "Vorlagen & Dokumente Pro",
       "category": "templates",
       "description": "Vorlagen & Dokumente için DE/TR kullanıma hazır dijital çözüm",
-      "price": 9.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1386,8 +1386,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 76,
@@ -1395,7 +1395,7 @@
       "title": "Vorlagen & Dokumente Plus",
       "category": "templates",
       "description": "Vorlagen & Dokumente için DE/TR kullanıma hazır dijital çözüm",
-      "price": 12.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1403,8 +1403,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 77,
@@ -1412,7 +1412,7 @@
       "title": "Vorlagen & Dokumente Toolkit",
       "category": "templates",
       "description": "Vorlagen & Dokumente için DE/TR kullanıma hazır dijital çözüm",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1420,8 +1420,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 78,
@@ -1429,7 +1429,7 @@
       "title": "Vorlagen & Dokumente Planner",
       "category": "templates",
       "description": "Vorlagen & Dokumente için DE/TR kullanıma hazır dijital çözüm",
-      "price": 17.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1437,8 +1437,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 79,
@@ -1446,7 +1446,7 @@
       "title": "Vorlagen & Dokumente Master Pack",
       "category": "templates",
       "description": "Vorlagen & Dokumente için DE/TR kullanıma hazır dijital çözüm",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1454,8 +1454,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 80,
@@ -1463,7 +1463,7 @@
       "title": "Vorlagen & Dokumente Quickstart",
       "category": "templates",
       "description": "Vorlagen & Dokumente için DE/TR kullanıma hazır dijital çözüm",
-      "price": 24.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1471,8 +1471,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 81,
@@ -1480,7 +1480,7 @@
       "title": "Eltern-Kommunikation Kit",
       "category": "family",
       "description": "Familie & Schule için pratik DE/TR ürün ve hizmet paketi",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1488,8 +1488,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 82,
@@ -1497,7 +1497,7 @@
       "title": "Schulbrief Decoder",
       "category": "family",
       "description": "Familie & Schule için pratik DE/TR ürün ve hizmet paketi",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1505,8 +1505,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 83,
@@ -1514,7 +1514,7 @@
       "title": "Kita Starter Pack",
       "category": "family",
       "description": "Familie & Schule için pratik DE/TR ürün ve hizmet paketi",
-      "price": 29.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1522,8 +1522,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 84,
@@ -1548,7 +1548,7 @@
       "title": "Familie & Schule Pro",
       "category": "family",
       "description": "Familie & Schule için DE/TR kullanıma hazır dijital çözüm",
-      "price": 9.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1556,8 +1556,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 86,
@@ -1565,7 +1565,7 @@
       "title": "Familie & Schule Plus",
       "category": "family",
       "description": "Familie & Schule için DE/TR kullanıma hazır dijital çözüm",
-      "price": 12.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1573,8 +1573,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 87,
@@ -1582,7 +1582,7 @@
       "title": "Familie & Schule Toolkit",
       "category": "family",
       "description": "Familie & Schule için DE/TR kullanıma hazır dijital çözüm",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1590,8 +1590,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 88,
@@ -1599,7 +1599,7 @@
       "title": "Familie & Schule Planner",
       "category": "family",
       "description": "Familie & Schule için DE/TR kullanıma hazır dijital çözüm",
-      "price": 17.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1607,8 +1607,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 89,
@@ -1616,7 +1616,7 @@
       "title": "Familie & Schule Master Pack",
       "category": "family",
       "description": "Familie & Schule için DE/TR kullanıma hazır dijital çözüm",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1624,8 +1624,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 90,
@@ -1633,7 +1633,7 @@
       "title": "Familie & Schule Quickstart",
       "category": "family",
       "description": "Familie & Schule için DE/TR kullanıma hazır dijital çözüm",
-      "price": 24.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1641,8 +1641,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 91,
@@ -1650,7 +1650,7 @@
       "title": "AI Content Service",
       "category": "services",
       "description": "AI Services için pratik DE/TR ürün ve hizmet paketi",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "service",
       "locales": [
@@ -1658,8 +1658,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 92,
@@ -1667,7 +1667,7 @@
       "title": "AI CV Service",
       "category": "services",
       "description": "AI Services için pratik DE/TR ürün ve hizmet paketi",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "service",
       "locales": [
@@ -1675,8 +1675,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 93,
@@ -1684,7 +1684,7 @@
       "title": "AI Automation Service",
       "category": "services",
       "description": "AI Services için pratik DE/TR ürün ve hizmet paketi",
-      "price": 29.9,
+      "price": 0,
       "currency": "EUR",
       "type": "service",
       "locales": [
@@ -1692,8 +1692,8 @@
         "tr"
       ],
       "featured": true,
-      "cta": "Jetzt starten / Hemen Başla",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 94,
@@ -1718,7 +1718,7 @@
       "title": "AI Services Pro",
       "category": "services",
       "description": "AI Services için DE/TR kullanıma hazır dijital çözüm",
-      "price": 9.9,
+      "price": 0,
       "currency": "EUR",
       "type": "service",
       "locales": [
@@ -1726,8 +1726,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 96,
@@ -1735,7 +1735,7 @@
       "title": "AI Services Plus",
       "category": "services",
       "description": "AI Services için DE/TR kullanıma hazır dijital çözüm",
-      "price": 12.9,
+      "price": 0,
       "currency": "EUR",
       "type": "service",
       "locales": [
@@ -1743,8 +1743,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 97,
@@ -1752,7 +1752,7 @@
       "title": "AI Services Toolkit",
       "category": "services",
       "description": "AI Services için DE/TR kullanıma hazır dijital çözüm",
-      "price": 14.9,
+      "price": 0,
       "currency": "EUR",
       "type": "service",
       "locales": [
@@ -1760,8 +1760,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 98,
@@ -1769,7 +1769,7 @@
       "title": "AI Services Planner",
       "category": "services",
       "description": "AI Services için DE/TR kullanıma hazır dijital çözüm",
-      "price": 17.9,
+      "price": 0,
       "currency": "EUR",
       "type": "service",
       "locales": [
@@ -1777,8 +1777,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 99,
@@ -1786,7 +1786,7 @@
       "title": "AI Services Master Pack",
       "category": "services",
       "description": "AI Services için DE/TR kullanıma hazır dijital çözüm",
-      "price": 19.9,
+      "price": 0,
       "currency": "EUR",
       "type": "service",
       "locales": [
@@ -1794,8 +1794,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 100,
@@ -1803,7 +1803,7 @@
       "title": "AI Services Quickstart",
       "category": "services",
       "description": "AI Services için DE/TR kullanıma hazır dijital çözüm",
-      "price": 24.9,
+      "price": 0,
       "currency": "EUR",
       "type": "service",
       "locales": [
@@ -1811,8 +1811,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "paid"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     }
   ]
 }
