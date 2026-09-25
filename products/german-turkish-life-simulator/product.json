@@ -1,0 +1,11 @@
+{
+  "slug": "german-turkish-life-simulator",
+  "type": "digital-product",
+  "status": "draft",
+  "price": { "currency": "EUR", "amount": 14.9, "billing": "one-time" },
+  "locales": ["de", "tr"],
+  "category": "language-life",
+  "tags": ["deutschland", "deutsch", "türkçe", "simulation", "life"],
+  "delivery": "digital",
+  "featured": true
+}

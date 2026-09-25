@@ -1,0 +1,11 @@
+{
+  "slug": "deutsch-job-twin",
+  "type": "service",
+  "status": "draft",
+  "price": { "currency": "EUR", "amount": 29.9, "billing": "monthly" },
+  "locales": ["de", "tr"],
+  "category": "career",
+  "tags": ["jobsuche", "bewerbung", "cv", "interview", "deutsch"],
+  "delivery": "digital",
+  "featured": true
+}
