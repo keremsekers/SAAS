@@ -171,7 +171,7 @@
       "title": "AI Formular-Assistent",
       "category": "ai-tools",
       "description": "Form doldurma rehberi",
-      "price": 9.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -179,8 +179,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 5,
@@ -341,7 +341,7 @@
       "title": "Karriere & Jobs Starter",
       "category": "career",
       "description": "Karriere & Jobs için DE/TR kullanıma hazır dijital çözüm",
-      "price": 7.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -349,8 +349,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 15,
@@ -511,7 +511,7 @@
       "title": "Deutschland Alltag Starter",
       "category": "germany-life",
       "description": "Deutschland Alltag için DE/TR kullanıma hazır dijital çözüm",
-      "price": 7.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -519,8 +519,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 25,
@@ -681,7 +681,7 @@
       "title": "Deutsch Lernen Starter",
       "category": "language",
       "description": "Deutsch Lernen için DE/TR kullanıma hazır dijital çözüm",
-      "price": 7.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -689,8 +689,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 35,
@@ -851,7 +851,7 @@
       "title": "Bürokratie & Behörden Starter",
       "category": "bureaucracy",
       "description": "Bürokratie & Behörden için DE/TR kullanıma hazır dijital çözüm",
-      "price": 7.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -859,8 +859,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 45,
@@ -1021,7 +1021,7 @@
       "title": "Business & Selbstständigkeit Starter",
       "category": "business",
       "description": "Business & Selbstständigkeit için DE/TR kullanıma hazır dijital çözüm",
-      "price": 7.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1029,8 +1029,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 55,
@@ -1191,7 +1191,7 @@
       "title": "Marketing & Content Starter",
       "category": "marketing",
       "description": "Marketing & Content için DE/TR kullanıma hazır dijital çözüm",
-      "price": 7.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1199,8 +1199,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 65,
@@ -1361,7 +1361,7 @@
       "title": "Vorlagen & Dokumente Starter",
       "category": "templates",
       "description": "Vorlagen & Dokumente için DE/TR kullanıma hazır dijital çözüm",
-      "price": 7.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1369,8 +1369,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 75,
@@ -1531,7 +1531,7 @@
       "title": "Familie & Schule Starter",
       "category": "family",
       "description": "Familie & Schule için DE/TR kullanıma hazır dijital çözüm",
-      "price": 7.9,
+      "price": 0,
       "currency": "EUR",
       "type": "digital-product",
       "locales": [
@@ -1539,8 +1539,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 85,
@@ -1701,7 +1701,7 @@
       "title": "AI Services Starter",
       "category": "services",
       "description": "AI Services için DE/TR kullanıma hazır dijital çözüm",
-      "price": 7.9,
+      "price": 0,
       "currency": "EUR",
       "type": "service",
       "locales": [
@@ -1709,8 +1709,8 @@
         "tr"
       ],
       "featured": false,
-      "cta": "Mehr erfahren / İncele",
-      "pricing": "support"
+      "cta": "Free / Ücretsiz",
+      "pricing": "free"
     },
     {
       "id": 95,
