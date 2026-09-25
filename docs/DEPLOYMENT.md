@@ -1,20 +1,24 @@
 # Deployment
 
-The storefront is a static site and is ready for Vercel or GitHub Pages.
+## GitHub Pages — ücretsiz
 
-## Vercel
+Storefront tamamen statik çalışır; ödeme sunucusu veya secret gerektirmez. GitHub Free + public repository ile GitHub Pages kullanılabilir. GitHub Pages, repository'deki statik HTML/CSS/JS dosyalarını doğrudan yayınlayabilir.
 
-Import `keremsekers/SAAS` into Vercel. Vercel supports zero-configuration deployment for static sites and Next.js projects.
+Repository'de .github/workflows/deploy-pages.yml hazırdır. main branch'e yapılan her push sonrasında GitHub Actions üzerinden Pages deployment başlatılır.
 
-## GitHub Pages
+## Mevcut durum
 
-The repository includes `.github/workflows/deploy-pages.yml`. After GitHub Pages is configured to use GitHub Actions, pushes to `main` deploy the storefront.
+- 100 ürün
+- 10 kategori
+- 🇩🇪 Deutsch + 🇹🇷 Türkçe
+- Tüm ürünler ücretsiz
+- 100 doğrudan statik indirme dosyası
+- Arama + kategori filtresi
+- Ürün detay modalı
+- Yerel kütüphane
+- WhatsApp / Telegram / E-Mail / native share
+- Checkout yok
+- Stripe yok
+- Secret / API key gerekmiyor
 
-## Current launch state
-
-- 100 products/services
-- DE/TR catalog
-- Top 3 merchandising per category
-- CTA/action flow
-- Payment intentionally disabled for this launch
-- Checkout and fulfillment can be added later without changing the catalog model
+Ödeme sistemi ileride ayrıca eklenebilir; mevcut ücretsiz katalog ve statik indirme yapısının buna ihtiyacı yok.
