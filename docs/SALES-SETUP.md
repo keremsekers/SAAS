@@ -1,0 +1,1 @@
+# Sales setup\n\nStripe Checkout and webhook fulfillment are included. Add the environment variables from `.env.example` in Vercel. Stripe validates product IDs and prices server-side. Resend sends the transactional delivery email. Never commit secrets.\n
